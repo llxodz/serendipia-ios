@@ -9,7 +9,7 @@ pod:
 
 ## Open Project
 start:
-	open TemplateApp.xcworkspace
+	open Serendipia.xcworkspace
 
 ## Clean DerivedData
 clean:

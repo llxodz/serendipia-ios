@@ -1,0 +1,20 @@
+PODS:
+  - SnapKit (5.6.0)
+  - SwiftGen (6.6.3)
+
+DEPENDENCIES:
+  - SnapKit (= 5.6.0)
+  - SwiftGen
+
+SPEC REPOS:
+  trunk:
+    - SnapKit
+    - SwiftGen
+
+SPEC CHECKSUMS:
+  SnapKit: e01d52ebb8ddbc333eefe2132acf85c8227d9c25
+  SwiftGen: 4993cbf71cbc4886f775e26f8d5c3a1188ec9f99
+
+PODFILE CHECKSUM: 9e71b7d3c0b1259a5b826cce7b7a01bfd495e82f
+
+COCOAPODS: 1.15.2
